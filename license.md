@@ -1,6 +1,6 @@
 # Adobe Acrobat Pro DC 2026 完整版免费下载 — 中文界面
 
-![Version](https://img.shields.io/badge/Version-2026-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=flat-square) ![Price](https://img.shields.io/badge/Price-Free-success?style=flat-square) ![Type](https://img.shields.io/badge/Type-PDF 处理软件-E53935?style=flat-square)
+![Version](https://img.shields.io/badge/Version-2026-blue?style=flat-square) ![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=flat-square) ![Price](https://img.shields.io/badge/Price-Free-success?style=flat-square) ![Type](https://img.shields.io/badge/Type-PDF_处理软件-E53935?style=flat-square)
 
 **Adobe Acrobat Pro DC** 是目前最专业的 PDF 处理软件，正版订阅每年需要数千元。这里的破解版已经去除授权验证，安装即用，功能与正版完全一致。**无需注册、无需信用卡、无功能限制。**
 
